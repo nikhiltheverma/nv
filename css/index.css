@@ -696,7 +696,7 @@ body{
     font-family: poppins;
     justify-content: center;
     transition: all .4s ease;
-    width:50%;
+    width:99%;
     border-radius: 10px;
     background: #c70039;
 }
@@ -2250,3 +2250,4 @@ for tabs and large phones
         transition: all .4s ease;
     }
 }
+
